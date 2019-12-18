@@ -1,4 +1,4 @@
-module github.com/TomasTomecek/tmux-top
+module github.com/pschmitt/tmux-top
 
 go 1.13
 
